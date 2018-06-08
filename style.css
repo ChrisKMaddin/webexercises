@@ -63,9 +63,9 @@ footer p {
 }
 
 .btn-main {
-    background-color: #333;
+    background-color: #474846;
     color: #fff;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Futura', sans-serif;
     font-weight: 600;
     font-size: 18px;
     letter-spacing: 1.3px;
@@ -75,7 +75,7 @@ footer p {
 }
 
 .btn-default {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Futura', sans-serif;
     font-weight: 600;
     font-size: 10px;
     letter-spacing: 1.3px;
@@ -91,7 +91,7 @@ footer p {
 }
 
 .supporting .col {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Futura', sans-serif;
     text-align: center;
 }
 
@@ -107,7 +107,7 @@ footer p {
 
 .supporting p {
     font-weight: 400;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 20px;
     padding: 0 20px;
     margin-bottom: 20px;
