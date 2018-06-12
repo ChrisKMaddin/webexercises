@@ -27,7 +27,7 @@ main h1 {
     color: #333;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
-    font-size: 70px;
+    font-size: 80px;
     margin-top: 0px;
     padding-top: 80px;
     margin-bottom: 80px;
@@ -37,7 +37,7 @@ main h1 {
 footer {
     background-color: #333;
     color: #fff;
-    padding: 30px 0;
+    padding: 35px 0;
 }
 
 footer p {
@@ -54,7 +54,7 @@ footer p {
 }
 
 .jumbotron {
-    height: 800px;
+    height: 750px;
     background-image: url("http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
