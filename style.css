@@ -5,6 +5,7 @@ html, body {
 
 header {
     background-color: #333333;
+    width: 100%;
 }
 
 nav {
@@ -27,7 +28,7 @@ main h1 {
     color: #333;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
-    font-size: 80px;
+    font-size: 70px;
     margin-top: 0px;
     padding-top: 80px;
     margin-bottom: 80px;
@@ -37,13 +38,17 @@ main h1 {
 footer {
     background-color: #333;
     color: #fff;
-    padding: 35px 0;
+    padding: 30px 0;
 }
 
 footer p {
     font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
     font-size: 11px;
+}
+
+selector {
+    position: fixed;
 }
 
 .container {
@@ -54,7 +59,7 @@ footer p {
 }
 
 .jumbotron {
-    height: 750px;
+    height: 800px;
     background-image: url("http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -63,9 +68,9 @@ footer p {
 }
 
 .btn-main {
-    background-color: #474846;
+    background-color: #333;
     color: #fff;
-    font-family: 'Futura', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 600;
     font-size: 18px;
     letter-spacing: 1.3px;
@@ -75,7 +80,7 @@ footer p {
 }
 
 .btn-default {
-    font-family: 'Futura', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 600;
     font-size: 10px;
     letter-spacing: 1.3px;
@@ -91,7 +96,7 @@ footer p {
 }
 
 .supporting .col {
-    font-family: 'Futura', sans-serif;
+    font-family: 'Raleway', sans-serif;
     text-align: center;
 }
 
@@ -107,7 +112,7 @@ footer p {
 
 .supporting p {
     font-weight: 400;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 20px;
     padding: 0 20px;
     margin-bottom: 20px;
